@@ -21,7 +21,7 @@ This guide is tailored to assist both newcomers and seasoned professionals in th
 - Common pitfalls and how to avoid them during your data quest.
 
 ### 👥 **Join the Community!**
-Receive exclusive insights, tips, and stories directly to your inbox! Dive deeper into the worlds of **Machine Learning**, **ChatGPT**, and **Data Discovery**.
+Receive exclusive insights, tips, and stories directly to your inbox! Dive deeper into the worlds of **Machine Learning**, **ChatGPT**, and **Self-Improvement**.
 - 📧 [**Subscribe to the Mailing List**](https://forms.gle/dByJy4RBkWnML9f36)
 
 ### 🌎 **Let’s Get Social!**
