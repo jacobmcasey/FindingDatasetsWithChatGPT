@@ -8,9 +8,9 @@ Welcome to an invaluable resource designed especially for the **Machine Learning
 
 Discovering the right dataset can often be a cumbersome task given the plethora of information available online. `FindingDatasetsWithChatGPT` seeks to:
 
-- 🧠 Employ AI: Utilizing the knowledge and capabilities of ChatGPT.
+- 🧠 Employ AI: Utilising the knowledge and capabilities of ChatGPT.
 - 🗂 Efficiently Navigate: Direct you smoothly through multiple data resources.
-- 🎯 Pinpoint Datasets: Help you discover datasets that precisely meet your project needs.
+- 🎯 Pinpoint Datasets: Help you discover datasets that answer high impact research questions.
   
 ## 📘 How to Use This Guide
 
