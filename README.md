@@ -22,13 +22,15 @@ This guide is tailored to assist both newcomers and seasoned professionals in th
 
 ### 👥 **Join the Community!**
 Receive exclusive insights, tips, and stories directly to your inbox! Dive deeper into the worlds of **Machine Learning**, **ChatGPT**, and **Data Discovery**.
-- 📧 [**Subscribe to the Mailing List**]((https://forms.gle/dByJy4RBkWnML9f36))
+- 📧 [**Subscribe to the Mailing List**](https://forms.gle/dByJy4RBkWnML9f36)
 
 ### 🌎 **Let’s Get Social!**
-Engage, share, and learn with a vibrant community across platforms! Connect for more insights, updates, and vibrant discussions in the field of **AI**, **Machine Learning**, and **Data Science**.
+Engage, share, and learn with me across platforms and lets built a vibrant community! Connect for more insights, updates, and vibrant discussions in the field of **AI**, **Machine Learning**, and **Data Science**.
 - 🐦 [**Follow Me on Twitter**](https://twitter.com/h4lf__)
 - 📸 [**Connect on Instagram**](https://instagram.com/jacob.h4lf)
 
 ### 🔄 Share & Support!
-Find this guide enlightening? Share it with your network and let’s amplify the knowledge! ⭐ Star the repository & forward it to friends exploring **ML** & **AI**.
+Find this guide enlightening? Share it with your network and let’s amplify the knowledge! 
+
+⭐ Star the repository & forward it to friends exploring **ML** & **AI**.
   
